@@ -1,4 +1,5 @@
-﻿namespace Fields_Of_Battle_Extractor
+//Written for Fields of Battle. https://store.steampowered.com/app/370800
+namespace Fields_Of_Battle_Extractor
 {
     internal class Program
     {
